@@ -996,7 +996,7 @@ blockquote {
     height: 123px;
     width: 123px;
     border-radius: 50%;
-    background: url("../img/avatar.png");
+    background: url("../img/me.jpg");
     background-size: cover;
     margin: 0 auto; }
   .mdl-layout__drawer .candidate-name {
@@ -1953,5 +1953,8 @@ blockquote {
 
   .about-sec .datepicker {
     left: -25px; } }
+
+
+
 
 /*# sourceMappingURL=style.css.map */
