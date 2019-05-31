@@ -1257,6 +1257,15 @@ blockquote {
 					}
 				}
 			}
+			&.purpal-bar {
+				span {
+					background: rebeccapurple;
+					&:after {
+						background:blueviolet;
+					}
+				}
+			}
+
 		}
 		
 		span { 
